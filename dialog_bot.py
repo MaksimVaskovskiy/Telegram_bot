@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 from random import choice
 
-bot = telebot.TeleBot('5326730542:AAFelDoAFNXXI6TdUupGg9lBN_8ueLO4ihk')
+bot = telebot.TeleBot('***')
 
 random_dialog = []
 
